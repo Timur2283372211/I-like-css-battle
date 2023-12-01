@@ -1,0 +1,10 @@
+body{
+    margin: 0 auto;
+    background: #F5D6B4;
+  }
+  div {
+    width: 200px;
+    height: 200px;
+    background: #D86F45;
+    border-radius: 360px;
+  }
